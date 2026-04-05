@@ -1,7 +1,7 @@
 name: sharara_usb
 description: "a high-performance Flutter plugin designed for direct hardware interaction with USB peripherals. Engineered specifically for POS systems and thermal printers, it provides a unified, low-latency interface for device discovery and raw data transmission"
 repository: "https://github.com/HassanSharara/sharara_usb"
-version: 0.1.0
+version: 0.1.1
 homepage: "https://github.com/HassanSharara"
 
 environment:
