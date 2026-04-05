@@ -184,7 +184,7 @@ class _DeviceCardState extends State<DeviceCard> {
   }
   @override
   Widget build(BuildContext context) {
-    bool hasPrinter = widget.device.interfaces?.any((i) => i.isPrinter) == true;
+    bool hasPrinter = widget.device.interfaces.any((i) => i.isPrinter) == true;
     // bool hasHID = widget.device.interfaces?.any((i) => i.isHID) == true;
 
     return Card(
